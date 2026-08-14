@@ -1,16 +1,38 @@
-# rehab
+# Rihab Tourism App
 
-A new Flutter project.
+A Flutter mobile application designed to present tourism-related destinations and attractions through a structured, multi-screen user experience.
 
-## Getting Started
+## Overview
 
-This project is a starting point for a Flutter application.
+Rihab Tourism App was developed as a practical Flutter mobile application focused on organizing tourism-related information into dedicated categories and screens.
 
-A few resources to get you started if this is your first Flutter project:
+The application provides users with a structured way to explore different tourism options and access location-related information.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Multi-screen navigation for different tourism categories.
+* Structured presentation of tourism destinations and related information.
+* Dedicated interfaces for browsing tourism options.
+* Location display through external map links using URL Launcher.
+
+## Project Structure
+
+The application is organized into separate models and screens to support a structured Flutter project architecture.
+
+* `lib/models` — application data models.
+* `lib/screens` — application screens and user interfaces.
+* `lib/main.dart` — application entry point.
+
+## Technologies
+
+* Flutter
+* Dart
+* URL Launcher
+
+## Purpose
+
+The project was developed as a practical Flutter application to strengthen mobile development skills, application structure, navigation, and user interface implementation.
+
+## Project Status
+
+Academic / portfolio project.
