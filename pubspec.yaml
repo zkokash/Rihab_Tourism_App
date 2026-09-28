@@ -1,5 +1,5 @@
-name: rehab
-description: "A new Flutter project."
+name: rihab_tourism_app
+description: "A Flutter tourism app for exploring destinations and attractions."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
